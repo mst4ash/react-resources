@@ -4,6 +4,9 @@ Here, I put the links of React resources that I find helpful for my future refer
 
 ## Articles by topics
 
+### General
+- [React Lifecycle Methods Dynamic Diagram](https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
+
 ### React Hooks
 
 - [A Simple Explanation of `React.useEffect()`](https://dmitripavlutin.com/react-useeffect-explanation/)
