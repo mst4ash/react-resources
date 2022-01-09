@@ -23,3 +23,4 @@ Here, I put the links of React resources that I find helpful for my future refer
 
 - [Codeacademy's course Learn Redux](https://www.codecademy.com/learn/learn-redux)
 - [Freecodecamp's React course](https://www.freecodecamp.org/learn/front-end-development-libraries/#react)
+- [Freecodecamp's Redux course](https://www.freecodecamp.org/learn/front-end-development-libraries/#redux)
