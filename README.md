@@ -10,7 +10,8 @@ Here, I put the links of React resources that I find helpful for my future refer
 ### React Hooks
 
 - [A Simple Explanation of `React.useEffect()`](https://dmitripavlutin.com/react-useeffect-explanation/)
-
+- [Your Guide to `React.useCallback()`](https://dmitripavlutin.com/dont-overuse-react-usecallback/)
+- [How to Memoize with `React.useMemo()`](https://dmitripavlutin.com/react-usememo-hook/)
 
 ### Redux
 
